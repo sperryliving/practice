@@ -3,18 +3,26 @@ practice
 
 Practice playing around with data sets using R.
 
-##BOOM
-###Headshot
+Classes Taken on Coursera  
 
-* A
-* B
-* C
-
-> This is a quote
-
-Col A | Col B
+Classe Name | Completed?
 ------ | ------
-bored sub 1 | bored sub 2
-
+The Data Scientist's Toolbox | Y
+------ | ------
+R Programming | N
+------ | ------
+Getting and Cleaning Data | N
+------ | ------
+Exploratory Data Analysis | N
+------ | ------
+Reproducible Research | N
+------ | ------
+Statistical Inference | N
+------ | ------
+Regression Models | N
+------ | ------
+Practical Machine Learning | N
+------ | ------
+Developing Data Products | N
 
 

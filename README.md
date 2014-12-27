@@ -6,11 +6,15 @@ Practice playing around with data sets using R.
 ##BOOM
 ###Headshot
 
-- attempt 1
-- attempt 2
-- attempt 3
+* A
+* B
+* C
 
-1 Hey
-2 Hi
-3 Ho
+> This is a quote
+
+Col A | Col B
+------ | ------
+bored sub 1 | bored sub 2
+
+
 
